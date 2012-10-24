@@ -2,4 +2,7 @@
 <resources>
     <string name="hello">Hello objectRecog!</string>
     <string name="app_name">objectRecog</string>
+    <string name="make_photo">Train</string>
+    <string name="hand">Hand</string>
+    <string name="no_hand">No Hand</string>
 </resources>
